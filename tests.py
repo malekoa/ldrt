@@ -233,8 +233,6 @@ def test(word: Word, initiator: Symbol, terminator: callable, direction: Directi
     else:
         print("Test failed")
 
-# unit test for the Word class. The test function should be called for each word, initiator, terminator, direction, output, condition, and expected word.
-
 # if name is main...
 if __name__ == "__main__":
     # tests found on page 25 of the paper
