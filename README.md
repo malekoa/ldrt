@@ -19,7 +19,7 @@ The `transform` method takes an initiator `Symbol`, a predicate function that ta
 ## Usage
 
 ```python
-from transformer import *
+from transformer import Word, Symbol, Color, Shape, Direction
 
 # Create a Word
 w = Word([
